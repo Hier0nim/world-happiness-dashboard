@@ -1,0 +1,6 @@
+[project]
+name = "world-happiness-dashboard"
+version = "1.0.0"
+description = "The dashboard with data visualization for World Happines Report dataset"
+requires-python = ">=3.13"
+dependencies = []
