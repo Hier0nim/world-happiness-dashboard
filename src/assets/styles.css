@@ -1,0 +1,33 @@
+body{
+  background:#f6f7fb;
+}
+
+.card{
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  box-shadow:0 6px 16px rgba(0,0,0,0.08);
+}
+
+.card-body{
+  padding:16px;
+}
+
+h3{
+  font-weight:800;
+  margin-bottom:6px;
+}
+
+h5{
+  font-weight:700;
+  margin-bottom:10px;
+}
+
+.text-secondary{
+  color:#6b7280 !important;
+}
+
+.Select-control{
+  border:1px solid #e5e7eb !important;
+  border-radius:10px !important;
+  box-shadow:none !important;
+}
